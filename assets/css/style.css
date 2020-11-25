@@ -74,11 +74,12 @@ a:visited {
   }
 }
 .block-title {
-  margin-bottom: 45px;
+  margin-bottom: 100px;
 }
 .block-title__title {
   margin: 0;
-  margin-top: -10px;
+  margin-bottom: 10px;
+  margin-top: -5px;
   font-size: 50px;
   font-weight: 400;
   color: #2a2833;
@@ -87,7 +88,9 @@ a:visited {
 .block-title__title span {
   font-weight: 700;
 }
-
+.block-content {
+  margin-bottom: 120px;
+}
 .thm-btn {
   border: none;
   display: inline-block;
@@ -639,7 +642,7 @@ a:visited {
 }
 .banner-one__moc {
   position: absolute;
-  bottom: 30%;
+  bottom: 20%;
   right: -30px;
 }
 .banner-one__moc:before {

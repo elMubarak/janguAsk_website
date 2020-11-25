@@ -65,7 +65,7 @@
 
                             </li>
                             <li class="scrollToLink">
-                                <a href="#video">Video</a>
+                                <a href="#about">About</a>
 
                             </li>
                             <li class="scrollToLink">
@@ -78,7 +78,6 @@
             </nav>
         </header><!-- /.site-header -->
         <section class="banner-one" id="banner">
-            <span class="banner-one__shape-1"></span>
             <span class="banner-one__shape-2"></span>
             <span class="banner-one__shape-3"></span>
             <span class="banner-one__shape-4"></span>
@@ -110,43 +109,43 @@
             <div class="container">
                 <div class="block-title text-center">
                     <h6 class="block-title__titleJangu"><span
-                            style="color: grey;font-size: 58px; font-weight: bold;">WE ARE LAUNCHING IN</span>
+                            style="color: grey;font-size: 58px; font-weight: bold;">WE ARE LAUNCHING SOON...</span>
                     </h6><!-- /.block-title__title -->
                 </div><!-- /.block-title -->
-                <div class="row">
+                <!-- <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="fact-one__single">
                             <div class="fact-one__inner">
-                                <h3 class="fact-one__count counter" id='days'>4789</h3><!-- /.fact-one__count counter -->
-                                <p class="fact-one__text">DAYS</p><!-- /.fact-one__text -->
-                            </div><!-- /.fact-one__inner -->
-                        </div><!-- /.fact-one__single -->
-                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                                <h3 class="fact-one__count counter" id='days'>4789</h3>
+                                <p class="fact-one__text">DAYS</p>
+                            </div>
+                        </div>
+                    </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="fact-one__single">
                             <div class="fact-one__inner">
-                                <h3 class="fact-one__count counter" id='hours'>6400</h3><!-- /.fact-one__count counter -->
-                                <p class="fact-one__text">HOURS</p><!-- /.fact-one__text -->
-                            </div><!-- /.fact-one__inner -->
-                        </div><!-- /.fact-one__single -->
-                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                                <h3 class="fact-one__count counter" id='hours'>6400</h3>
+                                <p class="fact-one__text">HOURS</p>
+                            </div>
+                        </div>
+                    </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="fact-one__single">
                             <div class="fact-one__inner">
-                                <h3 class="fact-one__count counter" id='minutes'>960</h3><!-- /.fact-one__count counter -->
-                                <p class="fact-one__text">MINUTES</p><!-- /.fact-one__text -->
-                            </div><!-- /.fact-one__inner -->
-                        </div><!-- /.fact-one__single -->
-                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                                <h3 class="fact-one__count counter" id='minutes'>960</h3>
+                                <p class="fact-one__text">MINUTES</p>
+                            </div>
+                        </div>
+                    </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="fact-one__single">
                             <div class="fact-one__inner">
-                                <h3 class="fact-one__count counter" id='seconds'>378</h3><!-- /.fact-one__count counter -->
-                                <p class="fact-one__text">SECONDS</p><!-- /.fact-one__text -->
-                            </div><!-- /.fact-one__inner -->
-                        </div><!-- /.fact-one__single -->
-                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
-                </div><!-- /.row -->
+                                <h3 class="fact-one__count counter" id='seconds'>378</h3>
+                                <p class="fact-one__text">SECONDS</p>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
             </div><!-- /.container -->
         </section><!-- /.fact-one -->
     <!-- Coundown Section End -->
@@ -165,7 +164,7 @@
                                     something or contribute their knowledge towards helping someone learn.</p>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
-                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                    </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInDown" data-wow-duration="1500ms">
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
@@ -177,7 +176,7 @@
                                     Such discussions get applauds, and comments from fellow users and the community.</p>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
-                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                    </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
@@ -188,7 +187,7 @@
                                     community by depositing questions and quizzes from past examinations.</p>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
-                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                    </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInDown" data-wow-duration="1500ms">
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
@@ -198,24 +197,24 @@
                                     educational video on any subject or field of your interest.</p>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
-                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                    </div>
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.service-one -->
-        <section class="video-one" id="video">
-            <img src="assets/images/background/video-one-bg.png" alt="Awesome Image" class="video-one__bg" />
+        <!-- <section class="video-one" id="video"> -->
+            <!-- <img src="assets/images/background/video-one-bg.png" alt="Awesome Image" class="video-one__bg" />
             <div class="container wow fadeInUp" data-wow-duration="1500ms">
                 <div class="video-one__box ">
                     <video width="1141" height="580" controls="true" autoplay="true">
                         <source src="assets/images/resources/vid.mp4" type="video/mp4">
-                    </video>
-                </div><!-- /.video-one__box -->
-            </div><!-- /.container -->
-        </section><!-- /.video-one -->
+                    </video> -->
+                <!-- </div>
+            </div>
+        </section> -->
 
-        <section class="cta-one">
+        <section class="cta-one" id="about">
             <img src="assets/images/background/cta-one-bg.png" class="cta-one__bg" alt="Awesome Image" />
-            <div class="container">
+            <div class="container justify-content-lg-center">
                 <img src="assets/images/mocs/mocsx.png" class="cta-one__moc" alt="Awesome Image" />
                 <div class="row justify-content-lg-end">
                     <div class="col-lg-6">
@@ -280,35 +279,35 @@
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="fact-one__single">
                             <div class="fact-one__inner">
-                                <h3 class="fact-one__count counter">4789</h3><!-- /.fact-one__count counter -->
-                                <p class="fact-one__text">Exams Questions</p><!-- /.fact-one__text -->
-                            </div><!-- /.fact-one__inner -->
-                        </div><!-- /.fact-one__single -->
-                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                                <h3 class="fact-one__count counter">789</h3>
+                                <p class="fact-one__text">Exams Questions</p>
+                            </div>
+                        </div>
+                    </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="fact-one__single">
                             <div class="fact-one__inner">
-                                <h3 class="fact-one__count counter">6400</h3><!-- /.fact-one__count counter -->
-                                <p class="fact-one__text">Users</p><!-- /.fact-one__text -->
-                            </div><!-- /.fact-one__inner -->
-                        </div><!-- /.fact-one__single -->
-                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                                <h3 class="fact-one__count counter">100</h3>
+                                <p class="fact-one__text">Users</p>
+                            </div>
+                        </div>
+                    </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="fact-one__single">
                             <div class="fact-one__inner">
-                                <h3 class="fact-one__count counter">960</h3><!-- /.fact-one__count counter -->
-                                <p class="fact-one__text">Subjects</p><!-- /.fact-one__text -->
-                            </div><!-- /.fact-one__inner -->
-                        </div><!-- /.fact-one__single -->
-                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                                <h3 class="fact-one__count counter">960</h3>
+                                <p class="fact-one__text">Subjects</p>
+                            </div>
+                        </div>
+                    </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="fact-one__single">
                             <div class="fact-one__inner">
-                                <h3 class="fact-one__count counter">378</h3><!-- /.fact-one__count counter -->
-                                <p class="fact-one__text">Quizzes</p><!-- /.fact-one__text -->
-                            </div><!-- /.fact-one__inner -->
-                        </div><!-- /.fact-one__single -->
-                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                                <h3 class="fact-one__count counter">2234</h3>
+                                <p class="fact-one__text">Schools</p>
+                            </div>
+                        </div>
+                    </div>
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.fact-one -->
@@ -323,35 +322,38 @@
                 </div><!-- /.block-title -->
                 <div class="app-shot-one__carousel owl-theme owl-carousel">
                     <div class="item">
-                        <img src="assets/images/app-shots/s3.png" alt="">
+                        <img src="assets/images/app-shots/s3.jpg" alt="">
                     </div><!-- /.item -->
                     <div class="item">
-                        <img src="assets/images/app-shots/s5.png" alt="">
+                        <img src="assets/images/app-shots/s5.jpg" alt="">
                     </div><!-- /.item -->
                     <div class="item">
-                        <img src="assets/images/app-shots/s1.png" alt="">
+                        <img src="assets/images/app-shots/s1.jpg" alt="">
                     </div><!-- /.item -->
                     <div class="item">
-                        <img src="assets/images/app-shots/s4.png" alt="">
+                        <img src="assets/images/app-shots/s4.jpg" alt="">
                     </div><!-- /.item -->
                     <div class="item">
-                        <img src="assets/images/app-shots/s2.png" alt="">
+                        <img src="assets/images/app-shots/s2.jpg" alt="">
                     </div><!-- /.item -->
                     <div class="item">
-                        <img src="assets/images/app-shots/s3.png" alt="">
+                        <img src="assets/images/app-shots/s3.jpg" alt="">
                     </div><!-- /.item -->
                     <div class="item">
-                        <img src="assets/images/app-shots/s5.png" alt="">
+                        <img src="assets/images/app-shots/s5.jpg" alt="">
                     </div><!-- /.item -->
                     <div class="item">
-                        <img src="assets/images/app-shots/s1.png" alt="">
+                        <img src="assets/images/app-shots/s1.jpg" alt="">
                     </div><!-- /.item -->
                     <div class="item">
-                        <img src="assets/images/app-shots/s4.png" alt="">
+                        <img src="assets/images/app-shots/s4.jpg" alt="">
                     </div><!-- /.item -->
                     <div class="item">
-                        <img src="assets/images/app-shots/s2.png" alt="">
-                    </div><!-- /.item -->
+                        <img src="assets/images/app-shots/s2.jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="assets/images/app-shots/s6.jpg" alt="">
+                    </div><<!-- /.item -->
                 </div><!-- /.app-shot-one__carousel owl-theme owl-carousel -->
             </div><!-- /.container-fluid -->
         </section><!-- /.app-shot-one -->
